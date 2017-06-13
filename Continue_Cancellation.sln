@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Continue", "01_Continue\01_Continue.csproj", "{CCDE8AE9-FFD9-4744-A815-017B3C258EA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_EmployeeContitueWith", "02_EmployeeContitueWith\02_EmployeeContitueWith.csproj", "{A59FDBE3-21C7-4D6A-AB57-B1E37FE7F30F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Cancelation_Token", "03_Cancelation_Token\03_Cancelation_Token.csproj", "{90F106FA-7CAF-4E53-9656-1F4941C052F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CCDE8AE9-FFD9-4744-A815-017B3C258EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCDE8AE9-FFD9-4744-A815-017B3C258EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCDE8AE9-FFD9-4744-A815-017B3C258EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59FDBE3-21C7-4D6A-AB57-B1E37FE7F30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59FDBE3-21C7-4D6A-AB57-B1E37FE7F30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59FDBE3-21C7-4D6A-AB57-B1E37FE7F30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59FDBE3-21C7-4D6A-AB57-B1E37FE7F30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F106FA-7CAF-4E53-9656-1F4941C052F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F106FA-7CAF-4E53-9656-1F4941C052F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F106FA-7CAF-4E53-9656-1F4941C052F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F106FA-7CAF-4E53-9656-1F4941C052F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
